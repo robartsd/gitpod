@@ -1,2 +1,2 @@
-# test
-testing github and gitpod settings
+# gitpod
+personal gitpod settings
